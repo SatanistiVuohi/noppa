@@ -1,0 +1,9 @@
+#container div {
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+label {
+    width: 100px;
+    display: inline-block;
+}
